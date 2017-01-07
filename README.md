@@ -23,9 +23,9 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
-## Notes
+## Obstacles
 
-Describe any challenges encountered while building the app.
+Towards the app end of the app design, there were a few issues regarding formatting with dragging certain swift elements, but after contacting the codepath team and alot of reserch, the app was deisgned fairly quickly. 
 
 ## License
 
